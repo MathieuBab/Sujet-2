@@ -36,7 +36,3 @@ Pour archiver tous les fichiers relatifs au projet :
 
     Dans le terminal où se trouve les fichiers, rentrer la commande : 
         make tar
-
-
-Afin d'accéder à la documentation il suffit d'aller dans le dossier html, et d'ouvrir le index.html, ou pour la documentation en pdf, il faut aller dans le dossier 
-latex et ouvrir le refman.pdf
